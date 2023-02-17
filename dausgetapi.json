@@ -1,42 +1,42 @@
 {
 success: true,
-message: "get data food success",
+message: "get data car success",
 data: [
 {
-	foodId:"1",
-	name_food : "Pajero Sport",
+	carId:"1",
+	name_car : "Pajero Sport",
 	description: "Mitsubishi Pajero Sport tersedia dalam pilihan mesin Diesel di Indonesia SUV baru dari Mitsubishi hadir dalam 12 varian. Bicara soal spesifikasi mesin Mitsubishi Pajero Sport, ini ditenagai dua pilihan mesin Diesel berkapasitas 2442 cc. Pajero Sport tersedia dengan transmisi Manual and Otomatis tergantung variannya. serta ground clearance 218 mm.",
 	price: 600000000,
 	code: "IDR",
 	image: "http://3.bp.blogspot.com/-Cns7X3B5KQI/UMqpZVQ5VeI/AAAAAAAAA5A/4wT4bDN2t64/s1600/harga-mitsubishi-pajero-sport.jpg"
 },
 {
-	foodId:"2",
-	name_food : "Fortuner",
+	carId:"2",
+	name_car : "Fortuner",
 	description: "Sejak pertama kali dipasarkan pada tahun 2005, Toyota Fortuner memiliki reputasi sebagai mobil SUV serba bisa keluaran Toyota. Berbody gagah dan sporty, Toyota All New Fortuner mendapat berbagai upgrade pada semua aspek yang membuat kenyamanan dan kedinamisan berkendara jauh lebih baik. Toyota Fortuner juga dibekali dengan dua pilihan mesin tangguh yang pastinya dapat menemani perjalanan Anda dan keluarga baik di dalam dan luar kota. Bahkan banyak komunitas pecinta Fortuner yang menggunakan mobil ini sebagai basis mobil Petualang / Off Road karena Toyota Fortuner tersedia dalam varian penggerak 4x4.",
 	price: 588000000,
 	code: "IDR",
 	image: "https://img-ik.cars.co.za/images/2020/6/ToyotaFortuner/tr:n-news_1200x/Fortuner5.jpg"
 },
 {
-	foodId:"3",
-	name_food : "Alphard",
+	carId:"3",
+	name_car : "Alphard",
 	description: "Toyota Alphard adalah MPV premium berukuran besar yang diproduksi oleh Toyota Motor Corporation sejak tahun 2002. Tujuan utama Toyota membuat Alphard adalah untuk bersaing dengan Honda Elysion dan Nissan Elgrand. Toyota Alphard pada awalnya dibuat untuk pasar domestik Jepang, tetapi juga dijual di beberapa negara Asia lainnya, termasuk di Indonesia. Toyota Alphard termasuk mobil keluarga premium untuk kalangan menengah keatas dengan design dan kenyamanan mewah.",
 	price: 1229000000,
 	code: "IDR",
 	image: "https://tse1.mm.bing.net/th?id=OIP.J2k7GfD-uiMqU6NNYgFyfwHaFP&pid=Api&P=0"
 },
 {
-	foodId:"4",
-	name_food : "Grand Max",
+	carId:"4",
+	name_car : "Grand Max",
 	description: "Mobil Daihatsu gran max ini memang sangat digemari oleh para konsumennya, disamping memiliki perfoma mesin yang lebih bertenaga dan irit bahan bakar, mobil ini sanggup menampung orang dengan jumplah yang cukup banyak. Dan untuk harga daihatsu gran max ini memang terbilang cukup terjangkau, karena daihatsu membanderol produknya yang satu ini dengan harga diatas rata-rata Rp 100 juta.",
 	price: 99000000,
 	code: "IDR",
 	image: "https://tse1.mm.bing.net/th?id=OIP.-ghoAUT4G2iNyx7_dOgqIgHaEc&pid=Api&P=0"
 },
 {
-	foodId:"5",
-	name_food : "Veloz",
+	carId:"5",
+	name_car : "Veloz",
 	description: "Toyota All New Veloz kini hadir dalam generasi baru dengan berbagai teknologi terbaik di kelasnya dan tentu aura premium. Toyota Veloz generasi baru hadir untuk memenuhi keinginan AutoFamily. Dibalut tampilan yang menarik dan berbagai fitur terkini, Toyota Veloz 2023 siap menemani keluarga Anda. Toyota selalu berinovasi dalam menghadirkan pengalaman berkendara yang terbaik untuk keluarga Indonesia.",
 	price: 2700000000,
 	code: "IDR",
